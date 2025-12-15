@@ -1,0 +1,13 @@
+---
+BasedOnStyle: LLVM
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: All
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
+AllowShortLambdasOnASingleLine: All
+AllowShortLoopsOnASingleLine: true
+IncludeBlocks: Regroup
+IndentWidth: 4
+SortIncludes:
+  Enabled: true
+TabWidth: 4
+UseTab: Never
