@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-  int rd_count = 0;    // 3's
-  int rdp1_count = 0;  // 3+1's
-  int rdp2_count = 0;  // 3+2's
+  int rd_count = 0;   // 3's
+  int rdp1_count = 0; // 3+1's
+  int rdp2_count = 0; // 3+2's
   int input;
   int n;
   scanf("%d", &n);

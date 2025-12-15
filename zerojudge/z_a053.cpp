@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int main(int argc, char const* argv[]) {
+int main(int argc, char const *argv[]) {
   int correct_amount = 0;
   int sum = 0;
   cin >> correct_amount;

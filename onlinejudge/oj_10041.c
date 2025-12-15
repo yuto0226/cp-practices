@@ -1,9 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int cmp(const void* a, const void* b) {
-  return *(int*)a - *(int*)b;
-}
+int cmp(const void *a, const void *b) { return *(int *)a - *(int *)b; }
 
 int main() {
   int n;

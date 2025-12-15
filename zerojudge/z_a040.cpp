@@ -15,6 +15,4 @@ bool armstrong(int n) {
   return 0;
 }
 
-int main() {
-  return 0;
-}
+int main() { return 0; }

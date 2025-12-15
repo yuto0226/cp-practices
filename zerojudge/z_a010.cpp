@@ -7,7 +7,7 @@ int main() {
   int n;
   cin >> n;
   for (int i = 2; i < n + 2; i++) {
-    int count = 0;  // 次方
+    int count = 0; // 次方
     while (n % i == 0) {
       n /= i;
       count += 1;
